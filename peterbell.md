@@ -1,3 +1,4 @@
 Adding peter to the project
 You would be told where to go.
 Added by Eldon
+Here are some tests
